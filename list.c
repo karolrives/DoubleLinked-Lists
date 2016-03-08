@@ -1,3 +1,11 @@
+//
+//  list.c
+//  Double Linked Lists
+//
+//  Created by A Carolina Figueroa Rives on 2015-08-14.
+//  Copyright © 2015 A Carolina Figueroa Rives. All rights reserved.
+//
+
 #include "list.h"
 
 
